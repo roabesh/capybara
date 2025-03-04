@@ -31,7 +31,7 @@
 Факультет информационных технологий, специальность «Разработка программного обеспечения»
 
 ## Контакты
-- GitHub: [github.com/funtik-the-capybara](https://github.com/roabesh)
+- GitHub: [github.com/roabesh](https://github.com/roabesh)
 - LinkedIn: [linkedin.com/in/funtik](https://linkedin.com/in/funtik)
 - Email: funtik.dev@example.com
 
