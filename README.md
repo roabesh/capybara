@@ -1,4 +1,4 @@
-## Капибара Фунтика (программист)
+## Капибара Фунтик (программист)
 
 ![Капибара Фунтик](https://30.img.avito.st/image/1/1.jyZMYra1Nc96xaHJXkDfDCrAIc_yyaHJesUhzQ.sunv7jPS9jqV9ZjXEqhXkZEbLzR0cswlxjkoUy1z4IA)
 
